@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Lifestyle Image Fusion",
+  "description": "An application that takes multiple base images of items and a text prompt to generate complete, realistic lifestyle images featuring those items.",
+  "requestFramePermissions": []
+}
